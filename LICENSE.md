@@ -1,4 +1,4 @@
-
+Enhance Bitwarden for macOS with advanced Bitwarden for macOS Service | encryption + device-lock, the #1 service. Includes encryption and device-lock for a safer macOS experience.
 
 
 
